@@ -18,7 +18,7 @@ This table shows summary totals for the CyBer ridesharing data.  The logical ass
 Looking at the data there are 3 recommendations that can be made for business and marketing improvements. 
 - Although Rural fares count for 6.8% (seen in pie chart below) the average fare is ~ $10 more per Ride and $40 more per driver.  For this segment we can leverage more marketing towards drivers of new rural areas. 
 
-![This is an image](analysis/Fig1.png)
+![This is an image](analysis/Fig5.png)
 
 - Urban areas on the other hand, with more drivers and more competition with public transport and other ridesharing companies. Leveraging “gamification” for customers with incentives for frequent use of PyBer ridesharing.
 
